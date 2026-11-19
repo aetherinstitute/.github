@@ -1,12 +1,13 @@
-## Hi there 👋
+# AetherInstitute
 
-<!--
+**Open-source architectures for intelligent systems, agent workflows, and modular AI orchestration.**
 
-**Here are some ideas to get you started:**
+AetherInstitute develops lightweight, provider-neutral frameworks and primitives that make agentic and LLM-driven systems transparent, inspectable, and composable without vendor or runtime lock-in.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Core Repositories
+* **[lattice](https://github.com/AetherInstitute/lattice)** — Lightweight Python framework for composing models, prompts, tools, structured outputs, and agent workflows across providers.
+* **[prompt-registry](https://github.com/AetherInstitute/prompt-registry)** — Versioned prompt artifacts, variable rendering, revision diffs, and lightweight behavioral evaluations.
+
+### Ecosystem & Direction
+* View our active and upcoming repositories in **[ROADMAP.md](https://github.com/AetherInstitute/.github/blob/main/ROADMAP.md)**.
+* For bug reports, security disclosures, or contribution guidelines, see our [community health files](https://github.com/AetherInstitute/.github).
