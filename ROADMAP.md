@@ -1,10 +1,10 @@
-# AetherInstitute Roadmap
+# aetherinstitute Roadmap
 
-AetherInstitute focuses on **AI systems architecture, orchestration, and autonomy**—building modular software components for composing intelligent workflows.
+aetherinstitute focuses on **AI systems architecture, orchestration, and autonomy**—building modular software components for composing intelligent workflows.
 
 ## Active Repositories (Phase 1)
-* **[lattice](https://github.com/AetherInstitute/lattice)** — Lightweight Python framework for composing models, prompts, tools, structured outputs, and agent workflows across providers.
-* **[prompt-registry](https://github.com/AetherInstitute/prompt-registry)** — Versioned prompt artifacts, variable rendering, revision diffs, and lightweight behavioral evaluations.
+* **[lattice](https://github.com/aetherinstitute/lattice)** — Lightweight Python framework for composing models, prompts, tools, structured outputs, and agent workflows across providers.
+* **[prompt-registry](https://github.com/aetherinstitute/prompt-registry)** — Versioned prompt artifacts, variable rendering, revision diffs, and lightweight behavioral evaluations.
 
 ## Planned Repositories (Phase 2)
 * **`agent-memory`** — Pluggable short-term and episodic state backends for multi-turn agent workflows.
